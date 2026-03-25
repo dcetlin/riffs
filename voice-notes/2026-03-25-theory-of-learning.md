@@ -172,3 +172,11 @@ These are non-obvious assertions in the model — not just phenomenological desc
 **dcetlin/Lobster#109 (absorption ceiling)** — The point at which the system can no longer absorb new information or complexity connects directly to system collapse here. The absorption ceiling is the attentional capacity limit; system collapse is what happens when that limit is crossed. Both are attentional-load phenomena.
 
 **dcetlin/Lobster#117 (vocabulary reference)** — The vocabulary seeds in this document are direct candidates for the vocabulary reference system: discernment, attunement, coherence, embodiment, Goldilocks window, encoded insights, system collapse, meta-attentional system. This riff is a primary source for those terms.
+
+---
+
+## Related Threads
+
+**dcetlin/Lobster: philosophy/2026-03-25-2000-philosophy-explore.md** — Applies this learning model's Discernment → Attunement arc directly to the project of perceiving one's own fundamental frequency. The explore names this the missing middle in Dan's framework: the subtractive principle (remove interference) handles stage-setting, but the perceptual operation — hearing the frequency when interference is gone, as a phenomenological recognition rather than an inference — needs its own developmental account. Coherence in this learning model and "hearing the fundamental frequency" in that explore are the same structural event, just mapped onto different domains (external skill vs. inner frequency).
+
+**dcetlin/riffs: frameworks/2026-03-25-principal-philosophy-lens.md** — Connects via aesthetic proprioception: that riff names the aesthetic sense as the real-time phase-alignment detector. This learning theory names the developmental stages by which such a detector gets trained. Together: the detector is the what; this theory is the how-it-develops.
