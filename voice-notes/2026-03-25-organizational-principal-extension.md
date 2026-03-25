@@ -18,6 +18,7 @@ vocabulary_seeds:
 source: text-message
 cleaned: false
 companion: voice-notes/2026-03-25-theory-of-learning.md
+companion_philosophy_lens: frameworks/2026-03-25-principal-philosophy-lens.md
 ---
 
 # Organizational Principal — Extended Formulation
