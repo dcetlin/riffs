@@ -18,6 +18,7 @@ vocabulary_seeds:
   - sympathetic resonance (used metaphorically for multi-system alignment)
 source: voice-note
 cleaned: true
+companion_raw: voice-notes/2026-03-25-theory-of-learning-raw.md
 ---
 
 # Theory of Learning
