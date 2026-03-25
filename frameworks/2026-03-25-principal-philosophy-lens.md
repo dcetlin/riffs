@@ -53,3 +53,11 @@ For Lobster specifically: this suggests the system isn't just a tool for inner c
 
 Net addition of the extension:
 The three prior themes (instrument-transparency, subtractive principle, representation vs. contact) were all oriented toward what to remove. The extension adds the active dimension: negentropy as ongoing work, impeccability as the execution standard for that work, the aesthetic sense as the real-time detector of negentropic failure, and the kingdom as the scope across which the work extends. The prior themes named the direction (subtractive). The extension names the mechanism (active negentropic counterprocess), the instrument (aesthetic proprioception), and the scale (fractal, from ergonomics of a single output to topology of the whole domain).
+
+---
+
+## Related Threads
+
+**dcetlin/Lobster: philosophy/2026-03-25-2000-philosophy-explore.md** — Names the gap this riff implies but doesn't close: aesthetic proprioception is the phase-alignment detector, but the capacity to perceive resonance ("hearing" the fundamental frequency when interference is gone) is itself a developmental discipline. That explore names this the missing middle operation — after subtraction, before expression — and asks what the analogous practice to training a violinist's ear would look like for one's own fundamental frequency. The two files are companion pieces: this one names the instrument (aesthetic proprioception), that one names the training question (how to develop the ear).
+
+**dcetlin/riffs: voice-notes/2026-03-25-theory-of-learning.md** — The Discernment → Attunement arc in that learning theory is the violinist's ear training made structural. Discernment is the initial perceptual opening; attunement is directional sensitivity toward coherence. Applied inward (to one's fundamental frequency rather than an external skill), those stages describe exactly the developmental discipline the philosophy explore is pointing at.
